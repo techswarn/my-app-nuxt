@@ -11,6 +11,33 @@
   "devDependencies": {
     "@nuxt/devtools": "latest",
     "@types/node": "^18.17.1",
-    "nuxt": "^3.6.5"
+    "nuxt": "^3.6.5",
+    "@types/google.maps": "^3.55.9",
+    "postcss-import": "^16.1.0",
+    "prettier": "^3.3.0",
+    "prettier-plugin-tailwindcss": "^0.6.1",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "@googlemaps/js-api-loader": "^1.16.6",
+    "@headlessui/vue": "^1.7.22",
+    "@nuxt/image": "^1.7.0",
+    "@nuxtjs/google-fonts": "^3.2.0",
+    "@nuxtjs/i18n": "^8.3.1",
+    "@nuxtjs/strapi": "^1.12.0",
+    "@nuxtjs/tailwindcss": "^6.12.0",
+    "@tailwindcss/forms": "^0.5.7",
+    "@tailwindcss/typography": "^0.5.13",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "lucide-vue-next": "^0.383.0",
+    "nuxt": "^3.11.2",
+    "nuxt-icon": "^0.6.10",
+    "radix-vue": "^1.8.3",
+    "shadcn-nuxt": "^0.10.4",
+    "tailwind-merge": "^2.3.0",
+    "tailwindcss-animate": "^1.0.7",
+    "vue": "^3.4.27",
+    "vue-router": "^4.3.2"
   }
 }
